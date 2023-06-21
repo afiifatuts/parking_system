@@ -1,0 +1,15 @@
+/Users/drika/Documents/tsaani/test/ntt/parking_system/bin/Debug/net7.0/parking_system
+/Users/drika/Documents/tsaani/test/ntt/parking_system/bin/Debug/net7.0/parking_system.deps.json
+/Users/drika/Documents/tsaani/test/ntt/parking_system/bin/Debug/net7.0/parking_system.runtimeconfig.json
+/Users/drika/Documents/tsaani/test/ntt/parking_system/bin/Debug/net7.0/parking_system.dll
+/Users/drika/Documents/tsaani/test/ntt/parking_system/bin/Debug/net7.0/parking_system.pdb
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.csproj.AssemblyReference.cache
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.AssemblyInfoInputs.cache
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.AssemblyInfo.cs
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.csproj.CoreCompileInputs.cache
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.dll
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/refint/parking_system.dll
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.pdb
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/parking_system.genruntimeconfig.cache
+/Users/drika/Documents/tsaani/test/ntt/parking_system/obj/Debug/net7.0/ref/parking_system.dll
